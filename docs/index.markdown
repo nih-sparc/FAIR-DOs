@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # **FAIR DOs:** Findable, Accessible, Interoperable, Reusable Development of Open Simulation

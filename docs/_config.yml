@@ -31,12 +31,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   neurobiology of digestive and renal epithelial transport. From a didactic “Systems” perspective, this ecosystem of models will be organized to
   follow the teaching narrative of the British Medical Association “Medical Physiology 3rd Ed.” textbook, supplemented with recent literature, setting
   the stage to further leverage SPARC resources for education in the future.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /FAIR-DOs/ # the subpath of your site, e.g. /blog
 url: https://nih-sparc.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 # Build settings
+theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
 google_analytics: G-DQ580DYGDN
 
