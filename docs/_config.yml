@@ -37,8 +37,11 @@ url: https://nih-sparc.github.io # the base hostname & protocol for your site, e
 #github_username:  jekyll
 
 # Build settings
-theme: slate
+remote_theme: pages-themes/slate@v0.2.0
+google_analytics: G-DQ580DYGDN
+
 plugins:
+  - jekyll-remote-theme # add this line for slate
   - jekyll-feed
 
 # Exclude from processing.
