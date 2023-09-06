@@ -19,7 +19,7 @@ There are no prerequisites for this course. This is a graduate-level class, and 
 
 ## Recommended and/or Required textbook(s) and/or Other Supplies 
 Textbook: “Medical Physiology”, 3rd Edition, Boron & Boulpaep Eds.
-SPARC resources are freely available from the website ‘https://sparc.science’. OpenCOR is available from the website ‘https://opencor.ws’ with an introductory tutorial “Create and run a simple CellML model: editing and simulation” available from the website ‘https://tutorial-on-cellml-opencor-and-pmr.readthedocs.io/en/latest/create_and_first_run.html’.
+SPARC resources are freely available from the website [https://sparc.science](https://sparc.science). OpenCOR is available from the website [https://opencor.ws](https://opencor.ws) with an introductory tutorial [“Create and run a simple CellML model: editing and simulation”](https://tutorial-on-cellml-opencor-and-pmr.readthedocs.io/en/latest/create_and_first_run.html).
 
 Recommended and required reading will come from the online materials such as journal articles and e-textbooks freely available to all students at Case.  The Medical Physiology textbook is freely accessible online to the students via ClinicalKey. Students must be connected to the Case network either on campus or via VPN to have free access.
 

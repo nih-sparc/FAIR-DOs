@@ -39,7 +39,7 @@ url: https://nih-sparc.github.io # the base hostname & protocol for your site, e
 # Build settings
 theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
-google_analytics: G-DQ580DYGDN
+# google_analytics: G-DQ580DYGDN [Uses old Google API - embedded directly in layout]
 
 plugins:
   - jekyll-remote-theme # add this line for slate
