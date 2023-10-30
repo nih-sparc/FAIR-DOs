@@ -23,5 +23,5 @@ SPARC resources are freely available from the website [https://sparc.science](ht
 Recommended and required reading will come from the online materials such as journal articles and e-textbooks freely available to all students at Case.  The Medical Physiology textbook is freely accessible online to the students via ClinicalKey. Students must be connected to the Case network either on campus or via VPN to have free access.
 
 ### Class Format and/or Meeting Times   
-This class will be offered as a two-module class/semester: a taught 4-week Lecture program, followed by a 11-week Research program. Students can take the class for either 1 credit hour (the “Lecture Program”) or 3 credit hours. 
+This class will be offered as a two-module class/semester: a taught 4-week Lecture program, followed by a 11-week Research program. Students can take the class for either 1 credit hour (the “Lecture Program”) or 3 credit hours.  
 
