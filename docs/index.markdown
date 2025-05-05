@@ -6,7 +6,7 @@ layout: default
 FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulations) is a research education program in the modeling and simulation of digestive and renal neurobiology. The main thrust of FAIR DOs is to educate the next generation of researchers and clinicians in the neural regulation of digestive and renal epithelia through taught modules and supervised modeling projects that make use of SPARC datasets, maps, and models. Overall, FAIR DOs aims to provide about 35/45 hours of training to students, with each student research project producing one publication in the Physiome journal--launched by the International Union of Physiological Sciences. The SPARC Portal will provide findability to these student- generated open-access models and associated data, as well as accessible interactivity via the O2S2PARC simulation platform. Overall, the FAIR DOs effort will provide a unique educational, mentored experience that will also generate a SPARC ecosystem of interoperating models that coherently study the neurobiology of digestive and renal epithelial transport. From a didactic “Systems” perspective, this ecosystem of models will be organized to follow the teaching narrative of the British Medical Association “Medical Physiology 3rd Ed.” textbook, supplemented with recent literature, setting the stage to further leverage SPARC resources for education in the future.
 ## **Course:** [PHOL 429: Biophysical Modeling and Simulation of Cellular Transport](https://physiology.case.edu/education/courses/#429)
 
-+ **Offered:** Spring 2024 at Case Western Reserve University
++ **Offered:** Spring 2025 at Case Western Reserve University
 
     Lecture Program (1 credit): MWF 2:00-3:30 PM for 4 weeks
 
@@ -15,7 +15,7 @@ FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulati
 + Full syllabus description: [PHOL 429 Syllabus](PHOL%20429%20Syllabus.pdf)
 + **Lead instructors**
   + Walter F. Boron, MD, PhD (walter.boron@case.edu)
-  + Rossana Occhipinti, PhD (rossana.occhipinti@case.edu)
+  + Fraser Moss (fraser.moss@case.edu)
 + **Leadership/Organizing Committee**
   + Walter F. Boron, MD, PhD (walter.boron@case.edu)
   + Bernard de Bono, MD, PhD (b.debono@auckland.ac.nz)
@@ -23,7 +23,7 @@ FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulati
   + Peter Hunter, PhD (p.hunter@auckland.ac.nz)
   + Maryann Martone, PhD (maryann@ncmir.ucsd.edu)
   + David Nickerson, PhD (d.nickerson@auckland.ac.nz)
-  + Rossana Occhipinti, PhD (rossana.occhipinti@case.edu)
+  + Rossana Occhipinti, PhD (rocc102@aucklanduni.ac.nz)
 
 ### Format and Meeting times   
 This class will be offered as a two-module class/semester: a taught 4-week Lecture program, followed by a 11-week Research program. Students can take the class for either 1 credit hour (“Lecture Program”) or 3 credit hours (“Lecture Program + Research Program”).
