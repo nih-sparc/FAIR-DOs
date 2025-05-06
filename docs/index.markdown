@@ -15,13 +15,15 @@ FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulati
 + Full syllabus description: [PHOL 429 Syllabus](PHOL%20429%20Syllabus.pdf)
 + **Lead instructors**
   + Walter F. Boron, MD, PhD (walter.boron@case.edu)
-  + Fraser Moss (fraser.moss@case.edu)
+  + Fraser Moss, PhD (fraser.moss@case.edu)
 + **Leadership/Organizing Committee**
+  + Weiwei Ai, PhD (weiwei.ai@auckland.ac.nz)
   + Walter F. Boron, MD, PhD (walter.boron@case.edu)
   + Bernard de Bono, MD, PhD (b.debono@auckland.ac.nz)
   + Jeffrey Grethe, PhD (jgrethe@ucsd.edu)
   + Peter Hunter, PhD (p.hunter@auckland.ac.nz)
   + Maryann Martone, PhD (maryann@ncmir.ucsd.edu)
+  + Fraser Moss, PhD (fraser.moss@case.edu)
   + David Nickerson, PhD (d.nickerson@auckland.ac.nz)
   + Rossana Occhipinti, PhD (rocc102@aucklanduni.ac.nz)
 
