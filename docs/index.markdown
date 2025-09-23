@@ -12,7 +12,7 @@ FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulati
 
     Mentored Research Program (2 credits): MF (2:00-2:50 PM)
 
-+ Full syllabus description: [PHOL 429 Syllabus from Spring 2025](PHOL%20429%20Syllabus.pdf)
++ Full syllabus description: [PHOL 429 Syllabus - Tentative and subject to change](2026%20Spring%20PHOL%20429%20Syllabus%20v1.pdf)
 + **Lead instructors**
   + Walter F. Boron, MD, PhD (walter.boron@case.edu)
   + Fraser Moss, PhD (fraser.moss@case.edu)
@@ -35,14 +35,12 @@ This class will be offered as a two-module class/semester: a taught 4-week Lectu
 + **Meeting Times:** Mondays, Wednesdays, Fridays, 2:00-3:30 PM for 4 weeks (10 lectures)
 + **Format:** Live lectures with students attending the class in person. Participating faculty from UCSD and University of Auckland will deliver lectures via Zoom with students in the classroom. Each of these lectures will be followed by a small-group tutorial in which the teaching faculty and TAs will discuss the material covered in the preceding lecture. All lectures and tutorials will be recorded.
 + **Content overview:** Core Topics to provide the background knowledge on computational methods, Stimulating Peripheral Activity to Relieve Conditions (SPARC) resources, and epithelial transport physiology. 
-+ **Evaluation:** In class mini-exam through multiple choice and short answer questions.
 
 ### Module II: Mentored Research Program (2 credits)
 
 + **Meeting Times:** Mondays, Fridays, 2:00-2:50 PM in class tutorials. Every two weeks one class (Friday) will be allocated for group discussions of the assigned research projects.
 + **Format:** Guided research and in class tutorials/group discussion. At the beginning of this module, students will receive a list of potential research projects. After a student chooses a project, the student will be paired with program faculty with relevant expertise for independent study under their guidance. Students generally will work in pairs on two parallel projects (so that each can still be first author on the term paper/publication plus, perhaps, a co-shared first authorship). Pairing of students will account for complementary expertise (e.g., a student with a more quantitative background will be paired with a student with a more biological background)
 + **Content overview:** Tutorials covering examples of applications for the material learned in the previous module and discussion of research projects. 
-+ **Evaluation:** At the end of the semester (in week #15), students will deliver a brief in class presentation of their project. Students will submit the final term paper by week #16 of final exams.
 
 ### Course description
 
