@@ -12,7 +12,7 @@ FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulati
 
     Mentored Research Program (2 credits): MF (2:00-2:50 PM)
 
-+ Full syllabus description: [PHOL 429 Syllabus](PHOL%20429%20Syllabus.pdf)
++ Full syllabus description: [PHOL 429 Syllabus from Spring 2025](PHOL%20429%20Syllabus.pdf)
 + **Lead instructors**
   + Walter F. Boron, MD, PhD (walter.boron@case.edu)
   + Fraser Moss, PhD (fraser.moss@case.edu)
