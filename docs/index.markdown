@@ -60,7 +60,7 @@ There are no prerequisites for this course. This is a graduate-level class, and 
 
 Textbook: “Medical Physiology”, 3rd Edition, Boron & Boulpaep Eds (freely accessible online via ClinicalKey when students are connected to the Case network either on campus or via VPN).
 
-SPARC resources are freely available from the website ‘https://sparc.science’. Recommended and required reading will come from the online materials such as journal articles and e-textbooks freely available to all students at Case.
+SPARC resources are freely available from the website [‘https://sparc.science’](https://sparc.science). Recommended and required reading will come from the online materials such as journal articles and e-textbooks freely available to all students at Case.
 
 ### Learning objectives and Course Goals
 
@@ -69,4 +69,4 @@ SPARC resources are freely available from the website ‘https://sparc.science�
 + The Lecture program will cover five main [Core Topics](core-topics): (1) Biophysical modeling theory, (2) Biophysical modeling tools, (3) The NIH SPARC effort, (4) Neurophysiology review, (5) Computational knowledge management.
 
 #### Module II: Mentored Research Program 
-+ Hands on experience with building a computational model in CellML including research, creation, execution and results analysis
++ Hands on experience with building a computational model in [CellML](https://www.cellml.org/) including research, creation, execution and results analysis
