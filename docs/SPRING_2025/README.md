@@ -1,1 +1,1 @@
-Files from the SPRIN 2025 Semester
+Files from the SPRING 2025 Semester
