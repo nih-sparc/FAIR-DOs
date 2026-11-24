@@ -3,19 +3,20 @@ layout: default
 ---
 
 ## Overview of Research Education Program
-FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulations) is a research education program in the modeling and simulation of digestive and renal neurobiology. The main thrust of FAIR DOs is to educate the next generation of researchers and clinicians in the neural regulation of digestive and renal epithelia through taught modules and supervised modeling projects that make use of SPARC datasets, maps, and models. Overall, FAIR DOs aims to provide about 35/45 hours of training to students, with each student research project producing one publication in the Physiome journal--launched by the International Union of Physiological Sciences. The [SPARC Portal](https://sparc.science) will provide findability to these student- generated open-access models and associated data, as well as accessible interactivity via the O2S2PARC simulation platform. Overall, the FAIR DOs effort will provide a unique educational, mentored experience that will also generate a SPARC ecosystem of interoperating models that coherently study the neurobiology of digestive and renal epithelial transport. From a didactic “Systems” perspective, this ecosystem of models will be organized to follow the teaching narrative of the British Medical Association “Medical Physiology 3rd Ed.” textbook, supplemented with recent literature, setting the stage to further leverage SPARC resources for education in the future.
-## **Course:** [PHOL 429: Biophysical Modeling and Simulation of Cellular Transport](https://physiology.case.edu/education/courses/#429)
+FAIR DOs (Findable, Accessible, Interoperable, Reusable: Development Of Simulations) is a research education program in the modeling and simulation of digestive and renal neurobiology. The main thrust of FAIR DOs is to educate the next generation of researchers and clinicians in the neural regulation of digestive and renal epithelia through taught modules and supervised modeling projects that make use of SPARC datasets, maps, and models. Overall, FAIR DOs aims to provide about 35/45 hours of training to students, with each student research project producing one publication in the Physiome journal--launched by the International Union of Physiological Sciences. The [SPARC Portal](https://sparc.science) will provide findability to these student- generated open-access models and associated data, as well as accessible interactivity via the O2S2PARC simulation platform. Overall, the FAIR DOs effort will provide a unique educational, mentored experience that will also generate a SPARC ecosystem of interoperating models that coherently study the neurobiology of digestive and renal epithelial transport. From a didactic “Systems” perspective, this ecosystem of models will be organized to follow the teaching narrative of the British Medical Association and the [“Medical Physiology 3rd Ed.”](https://shop.elsevier.com/books/medical-physiology/boron/978-1-4557-4377-3) textbook, supplemented with recent literature, setting the stage to further leverage SPARC resources for education in the future.
+## **Course:** [PHOL 429: Biophysical Modeling and Simulation of Cellular Transport](https://webapps.case.edu/registrar/course-listings?subject=PHOL&term=2271)
 
-+ **Offered:** Spring 2026 at Case Western Reserve University
++ **Offered:** Spring 2027 at Case Western Reserve University
 
     Lecture Program (1 credit): MWF for 4 weeks (2:00-3:30 PM) 
 
     Mentored Research Program (2 credits): MF (2:00-2:50 PM)
 
 + Full syllabus description: [PHOL 429 Syllabus - Tentative and subject to change](2027-Spring-PHOL429-SyllabusUpdated-20260723.pdf)
-+ **Lead instructors**
-  + Walter F. Boron, MD, PhD (walter.boron@case.edu)
-  + Fraser Moss, PhD (fraser.moss@case.edu)
++ **Contact Course Director**
+  + Fraser Moss, PhD ([fraser.moss@case.edu](mailto:fraser.moss@case.edu))
++ **Co-course Director**
+  + Walter F. Boron, MD, PhD ([walter.boron@case.edu](mailto:walter.boron@case.edu))
 + **Leadership/Organizing Committee**
   + Weiwei Ai, PhD (weiwei.ai@auckland.ac.nz)
   + Walter F. Boron, MD, PhD (walter.boron@case.edu)
